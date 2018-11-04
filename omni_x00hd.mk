@@ -15,8 +15,8 @@
 #
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
-PRODUCT_DEVICE := ww_phone
-PRODUCT_NAME := omni_ww_phone
+PRODUCT_DEVICE := x00hd
+PRODUCT_NAME := omni_x00hd
 PRODUCT_BRAND := asus
 PRODUCT_MODEL := ASUS_X00HD
 PRODUCT_MANUFACTURER := asus

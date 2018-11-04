@@ -14,10 +14,10 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/asus/ww_phone
+LOCAL_PATH := device/asus/x00hd
 
 TARGET_BOARD_PLATFORM := ASUS_X00HD_4
-TARGET_BOOTLOADER_BOARD_NAME := ww_phone
+TARGET_BOOTLOADER_BOARD_NAME := x00hd
 
 # Recovery
 TARGET_USERIMAGES_USE_EXT4 := true

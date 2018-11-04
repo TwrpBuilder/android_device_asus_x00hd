@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/asus/ww_phone/
+LOCAL_PATH := device/asus/x00hd/
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_ww_phone.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_x00hd.mk

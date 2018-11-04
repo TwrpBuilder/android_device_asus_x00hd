@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 
-ifneq ($(filter ww_phone,$(TARGET_DEVICE)),)
+ifneq ($(filter x00hd,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/asus/ww_phone/
+LOCAL_PATH := device/asus/x00hd/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
